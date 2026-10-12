@@ -1,4 +1,4 @@
-#pozdrav
+#jednoduchá otázka
 print ("Kahoot")
 odpoved = input ("Kdo je lepší fotbalista?  ")
 if odpoved == "Messi":
